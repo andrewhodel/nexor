@@ -76,3 +76,6 @@ clang -lm -o nexor nexor.c
 Run ./nexor to see all available options
 
 You can generate keys, encrypt and decrypt messages and check the entropy of different keys/files.
+
+# LICENSE
+MIT
